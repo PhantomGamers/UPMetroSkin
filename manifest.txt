@@ -26,4 +26,3 @@
 "Remastered Extra";"remaster";"";""
 "Repositioned Overflow + Repositioned Launch Button";"repositioned_overflow_n_repositioned_launchbtn";"repositioned_overflow,repositioned_launchbtn";"Client Windows"
 "Big Picture Button + Green Notification Box";"bigpic_n_greenbox";"big_picture_button,greenbox";"Navigation Bar"
-"Big Picture Button + Green Notification Icon";"bigpic_n_greenicon";"big_picture_button,greenicon";"Navigation Bar"
